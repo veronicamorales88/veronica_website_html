@@ -1,1 +1,29 @@
 
+h1 {
+  border: 3px none;
+  color: black;
+  text-shadow: green 3px 3px;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 2em;
+  font-family: Helvetica;
+  padding: 10px;
+  margin: 10px;
+  width: 50%;
+}
+h3 {  
+  font-weight: bold;
+  font-variant: small-caps;
+  font-family: Helvetica;
+
+}
+h2 {color: white}
+ul {color: white}
+ol {color: white}
+p {color: white}
+
+p {color: white;}
+
+body {
+    background-image: url("Ireland_Landscape_n.jpg");
+    .column-center{ display: inline-block; width: 33%; }
